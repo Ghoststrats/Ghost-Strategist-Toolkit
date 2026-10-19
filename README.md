@@ -1,11 +1,5 @@
 # Ghost Strategist Toolkit
 
-**PRIVACY IS AN ILLUSION.**
-
-**KNOWLEDGE IS A TOOL.**
-
-**WE ARE THE ANOMALY.**
-
 ### A Linux Privacy, Cybersecurity & System Management Toolkit
 
 **Created by GhostStrats**
