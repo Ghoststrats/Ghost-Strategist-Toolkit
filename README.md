@@ -105,7 +105,7 @@ Open a terminal in your Downloads folder and run:
 
 ```bash
 cd ~/Downloads
-sudo apt install ./ghoststrats-toolkit_8.1.0_all.deb
+sudo apt install ./ghoststrats-toolkit.deb
 ```
 
 Once installed, launch with:
