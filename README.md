@@ -4,7 +4,7 @@
 
 **Created by GhostStrats**
 
-**Current Version: V81 — Linux Edition**
+**Current Version: V1 — Linux Edition**
 
 A free Linux terminal toolkit designed for privacy awareness, cybersecurity education, wireless scanning, drone detection, network analysis, system management, and learning how your computer actually works.
 
